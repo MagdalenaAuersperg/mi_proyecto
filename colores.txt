@@ -6,4 +6,4 @@ Naranja
 Morado
 Cyan
 Rosa
-
+dorado
