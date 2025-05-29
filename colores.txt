@@ -5,4 +5,3 @@ Amarillo
 Naranja
 Morado
 Cyan
-Rosa
