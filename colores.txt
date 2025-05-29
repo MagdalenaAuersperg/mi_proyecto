@@ -7,3 +7,4 @@ Morado
 Cyan
 Rosa
 dorado
+plateado
